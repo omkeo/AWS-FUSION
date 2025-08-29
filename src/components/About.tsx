@@ -86,7 +86,7 @@ const About: React.FC = () => {
             animate={isInView ? { opacity: 1, x: 0 } : {}}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            <h3 className="text-3xl font-bold text-gray-900 dark:text-white mb-8">Our Journey</h3>
+            <h3 className="text-3xl font-bold text-gray-900 dark:text-white mb-8">Our Journey 2025</h3>
             <div className="space-y-6">
               {milestones.map((milestone, index) => (
                 <motion.div
