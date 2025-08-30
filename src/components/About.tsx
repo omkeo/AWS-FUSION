@@ -120,7 +120,7 @@ const About: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.6 }}
         >
           {[
-            { number: '500+', label: 'Students Trained', icon: '👨‍🎓' },
+            { number: '50+', label: 'Students Trained', icon: '👨‍🎓' },
             { number: '50+', label: 'AWS Projects', icon: '☁️' },
             { number: '98%', label: 'Success Rate', icon: '📈' },
             { number: '24/7', label: 'Support', icon: '🛟' },
