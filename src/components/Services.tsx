@@ -12,7 +12,7 @@ const Services: React.FC = () => {
       icon: FaAws,
       title: 'AWS Cloud Solutions',
       description: 'Deploy scalable and secure AWS infrastructures with best practices and cost optimization.',
-      features: ['EC2 & Auto Scaling', 'S3 & CloudFront', 'RDS & DynamoDB', 'Lambda & API Gateway'],
+      features: ['EC2 & Auto Scaling', 'S3 For Storage', 'RDS For Database', 'SNS & KMS'],
       color: 'from-orange-500 to-orange-600',
       bgColor: 'from-orange-50 to-orange-100 dark:from-orange-900/20 dark:to-orange-800/20'
     },
@@ -20,7 +20,7 @@ const Services: React.FC = () => {
       icon: FaLinux,
       title: 'Linux System Administration',
       description: 'Optimize and manage your Linux environments with advanced system administration skills.',
-      features: ['Server Configuration', 'Shell Scripting', 'Process Management', 'Network Administration'],
+      features: ['linux architecture', 'Permission & User Mangment', 'Process Management', 'Network Administration'],
       color: 'from-blue-500 to-blue-600',
       bgColor: 'from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20'
     },
@@ -28,7 +28,7 @@ const Services: React.FC = () => {
       icon: FaShieldAlt,
       title: 'Cloud Security',
       description: 'Protect your cloud workloads with robust security strategies and compliance frameworks.',
-      features: ['IAM & Access Control', 'VPC Security', 'Encryption', 'Compliance Auditing'],
+      features: ['IAM & Access Control', 'VPC Security', 'Encryption', 'CloudWatch'],
       color: 'from-red-500 to-red-600',
       bgColor: 'from-red-50 to-red-100 dark:from-red-900/20 dark:to-red-800/20'
     },
@@ -42,17 +42,17 @@ const Services: React.FC = () => {
     },
     {
       icon: FaGraduationCap,
-      title: 'Certification Training',
+      title: 'Certification',
       description: 'Comprehensive training programs to help you ace AWS and Linux certifications.',
-      features: ['AWS Solutions Architect', 'AWS DevOps Engineer', 'Linux Professional', 'Hands-on Labs'],
+      features: ['AWS Fusion Certificate', 'Student Workshop Report', 'Project Documentation', 'Hands-on Labs'],
       color: 'from-purple-500 to-purple-600',
       bgColor: 'from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20'
     },
     {
       icon: FaUsers,
-      title: 'Corporate Training',
+      title: 'Collage/Corporate Training',
       description: 'Customized training programs for teams and organizations to upskill their workforce.',
-      features: ['Team Workshops', 'Custom Curriculum', 'On-site Training', 'Progress Tracking'],
+      features: ['Team Workshops', 'Career Guidance', 'Friendly Mentorship', 'Flexiable Traing Modes'],
       color: 'from-teal-500 to-teal-600',
       bgColor: 'from-teal-50 to-teal-100 dark:from-teal-900/20 dark:to-teal-800/20'
     },
