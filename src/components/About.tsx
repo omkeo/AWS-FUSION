@@ -16,10 +16,10 @@ const About: React.FC = () => {
 
   const milestones = [
     { year: 'April', title: 'AWS Fusion Founded', description: 'Started our journey in cloud education' },
-    { year: 'May', title: '100+ Students', description: 'Reached our first major milestone' },
-    { year: 'June', title: 'Corporate Training', description: 'Expanded to enterprise solutions' },
-    { year: 'July', title: 'AWS Partnership', description: 'Became AWS Training Partner' },
-    { year: 'August', title: '500+ Graduates', description: 'Celebrating continued growth' },
+    { year: 'May', title: '20+ Students', description: 'Reached our first major milestone' },
+    { year: 'June', title: 'Collage/Corporate Training', description: 'Expanded to enterprise solutions' },
+    { year: 'July', title: 'Great Insight', description: 'Start Getting Great Insight' },
+    { year: 'August', title: '50+ Graduates', description: 'Celebrating continued growth' },
   ];
 
   return (
