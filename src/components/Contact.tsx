@@ -52,7 +52,7 @@ const Contact: React.FC = () => {
     {
       icon: FiMapPin,
       label: 'Location',
-      value: 'Maharashtra, Punr, India',
+      value: 'Maharashtra, Pune, India',
       href: '#'
     }
   ];
