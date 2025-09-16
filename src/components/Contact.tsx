@@ -46,8 +46,8 @@ const Contact: React.FC = () => {
     {
       icon: FiPhone,
       label: 'Phone',
-      value: '+91 7030043937',
-      href: 'tel:+917030043937'
+      value: '+91 7030142809',
+      href: 'tel:+917030142809'
     },
     {
       icon: FiMapPin,
@@ -146,7 +146,7 @@ const Contact: React.FC = () => {
                   <div className="text-center">
                     <FiMapPin className="text-4xl text-blue-600 dark:text-blue-400 mx-auto mb-2" />
                     <p className="text-gray-600 dark:text-gray-400">Interactive Map</p>
-                    <p className="text-sm text-gray-500 dark:text-gray-500">Bengaluru, Karnataka</p>
+                    <p className="text-sm text-gray-500 dark:text-gray-500">Pune, Maharashtra</p>
                   </div>
                 </div>
               </div>
