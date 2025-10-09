@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              Learn, Deploy, and Scale with Industry Experts in AWS & Linux
+               and Scale with Industry Experts in AWS & Linux
             </motion.p>
 
             <motion.div
